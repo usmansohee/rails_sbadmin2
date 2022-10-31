@@ -1,0 +1,64 @@
+{
+  "application.js": "/packs/js/application-4c992043138782584467.js",
+  "application.js.map": "/packs/js/application-4c992043138782584467.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-4c992043138782584467.js"
+      ],
+      "js.map": [
+        "/packs/js/application-4c992043138782584467.js.map"
+      ]
+    },
+    "shared/demo/chart-area-demo": {
+      "js": [
+        "/packs/js/shared/demo/chart-area-demo-e791066020f6d1ef3b28.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/demo/chart-area-demo-e791066020f6d1ef3b28.js.map"
+      ]
+    },
+    "shared/demo/chart-bar-demo": {
+      "js": [
+        "/packs/js/shared/demo/chart-bar-demo-db940de6bb5878954500.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/demo/chart-bar-demo-db940de6bb5878954500.js.map"
+      ]
+    },
+    "shared/demo/chart-pie-demo": {
+      "js": [
+        "/packs/js/shared/demo/chart-pie-demo-27263653e62cf2791c0b.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/demo/chart-pie-demo-27263653e62cf2791c0b.js.map"
+      ]
+    },
+    "shared/demo/datatables-demo": {
+      "js": [
+        "/packs/js/shared/demo/datatables-demo-c3d7a586af775407fdb1.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/demo/datatables-demo-c3d7a586af775407fdb1.js.map"
+      ]
+    },
+    "shared/sb-admin-2": {
+      "js": [
+        "/packs/js/shared/sb-admin-2-8941dd7d30c470c93836.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/sb-admin-2-8941dd7d30c470c93836.js.map"
+      ]
+    }
+  },
+  "shared/demo/chart-area-demo.js": "/packs/js/shared/demo/chart-area-demo-e791066020f6d1ef3b28.js",
+  "shared/demo/chart-area-demo.js.map": "/packs/js/shared/demo/chart-area-demo-e791066020f6d1ef3b28.js.map",
+  "shared/demo/chart-bar-demo.js": "/packs/js/shared/demo/chart-bar-demo-db940de6bb5878954500.js",
+  "shared/demo/chart-bar-demo.js.map": "/packs/js/shared/demo/chart-bar-demo-db940de6bb5878954500.js.map",
+  "shared/demo/chart-pie-demo.js": "/packs/js/shared/demo/chart-pie-demo-27263653e62cf2791c0b.js",
+  "shared/demo/chart-pie-demo.js.map": "/packs/js/shared/demo/chart-pie-demo-27263653e62cf2791c0b.js.map",
+  "shared/demo/datatables-demo.js": "/packs/js/shared/demo/datatables-demo-c3d7a586af775407fdb1.js",
+  "shared/demo/datatables-demo.js.map": "/packs/js/shared/demo/datatables-demo-c3d7a586af775407fdb1.js.map",
+  "shared/sb-admin-2.js": "/packs/js/shared/sb-admin-2-8941dd7d30c470c93836.js",
+  "shared/sb-admin-2.js.map": "/packs/js/shared/sb-admin-2-8941dd7d30c470c93836.js.map"
+}
